@@ -46,10 +46,6 @@ This project is part of the **AbouHadhood Platform** training track with **Dr. M
 
 ---
 
-## 🧪 Example Question
-
----
-
 ## 🚀 Getting Started
 
 ### 1️⃣ Clone the Repository
